@@ -15,3 +15,10 @@
  *= require nprogress
  *= require nprogress-bootstrap
  */
+ .navbar-default {
+    color: #008070;
+    background-color: #372A21;
+}
+body {
+	background-color: #80BFFF;
+}
